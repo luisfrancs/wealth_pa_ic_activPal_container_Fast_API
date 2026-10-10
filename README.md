@@ -194,8 +194,8 @@ No Python packages need to be installed on the host.
 Clone the repository:
 
 ```bash
-git clone https://github.com/luisfrancs/wealth_pb_ee_models.git
-cd wealth_pb_ee_models
+git clone https://github.com/luisfrancs/wealth_pa_ic_activPal_container_Fast_API.git
+cd wealth_pa_ic_activPal_container_Fast_API
 ```
 
 Build the Docker image:
